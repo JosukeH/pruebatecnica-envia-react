@@ -1,0 +1,1 @@
+please add bearer token in .env example
